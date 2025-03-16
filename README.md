@@ -1,0 +1,3 @@
+# Challenge - Amigo Secreto
+
+Este primer proyecto que se realiza como desafio para poner aprueba los conocimientos basicos de programacion. Consiste en una aplicación que permite al usuario ingresar nombres en forma de una lista con la finalidad de realizar un sorteo aleatorio y determinar quién es el "Amigo Secreto". Los nombres de la lista de los amigos se muestra cada vez que se ingresa un nombre y al hora de dar click en boton 
